@@ -1,1 +1,8 @@
+items =  input('geef aantal producten op')
+item = float(items)
+kosten = 1.99
+
+
+print('item =',item)
+print('kosten =',kosten)
 
